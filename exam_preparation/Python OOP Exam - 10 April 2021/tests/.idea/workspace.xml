@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c39eae30-39e5-4ef9-9f82-66ceacf734bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exam_skeleton/project/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam_skeleton/project/core/aquarium_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam_skeleton/project/core/decoration_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam_skeleton/project/core/fish_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam_skeleton/project/core/validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python OOP Exam - 11 December 2021/unit_testing/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iterators_and_generators_ex/01_take_skip_ver1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/.idea/unit_testing_ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/hero/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/hero/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/hero/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/hero/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/hero/test/test_hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/mammal/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/mammal/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/mammal/test/test_mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/student/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/student/project/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/student/tests.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/student/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/student/tests/test_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/vehicle/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/vehicle/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/vehicle/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/vehicle/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unit_testing_ex_1/vehicle/test/test_vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID_ex/emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID_ex/emails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID_ex/prisoner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID_ex/prisoner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID_ex/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID_ex/shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID_ex/workers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID_ex/workers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID_ex/workers_updated.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID_ex/workers_updated.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2N3TX1idoIaqxNDRQdDwCVqsMLr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/Python_OOP/Python OOP Exam - 10 April 2021/unit_testing",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c39eae30-39e5-4ef9-9f82-66ceacf734bf" name="Changes" comment="" />
+      <created>1678891802125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678891802125</updated>
+      <workItem from="1678891803186" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
